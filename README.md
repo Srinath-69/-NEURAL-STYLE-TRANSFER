@@ -51,3 +51,4 @@ Educational and cultural initiatives employ NST to create stylized representatio
 
 *OUTPUT*:
 
+**![Image](https://github.com/user-attachments/assets/500b337d-f0b3-4787-9975-f38ceedbcc92)**
